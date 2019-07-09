@@ -1,0 +1,7 @@
+python
+
+git bash
+
+visual stdio code
+
+typora
